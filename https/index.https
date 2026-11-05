@@ -205,7 +205,7 @@
         <div class="age-wrap" aria-label="Тебе исполнится 16 лет">
           <div class="age-ring"></div>
           <div class="age-number">16</div>
-          <div class="age-label">твой новый уровень</div>
+          <div class="age-label">твое день рождения</div>
         </div>
 
         <div class="countdown" aria-label="Обратный отсчёт до дня рождения">
